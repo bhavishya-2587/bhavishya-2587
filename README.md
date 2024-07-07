@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavishya-2587
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: https://www.instagram.com/bhavishya_2587/
 - 😄 Pronouns: he /his/him
 - ⚡ Fun fact: Bhavishya is my name........😂

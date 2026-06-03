@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @bhavishya-2587
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me: https://www.instagram.com/bhavishya_2587/
-- 😄 Pronouns: he /his/him
-- ⚡ Fun fact: Bhavishya is my name........😂
+# Hi, I'm Bhavishya Sharma 
 
-<!---
-bhavishya-2587/bhavishya-2587 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Software Engineer from India with interests in Artificial Intelligence, Computer Vision, Backend Development, and Educational Technology.
+
+Currently building practical software projects in Python while preparing for a Computer Science and Engineering degree.
+
+## Featured Projects
+
+### Face Recognition Attendance System
+
+A computer vision application built with OpenCV and face_recognition that identifies registered individuals through webcam input and automatically records attendance.
+
+### Student Result Management System
+
+A Python and MySQL based academic record management system featuring CRUD operations, search functionality, performance analytics, topper identification, and low-performer analysis.
+
+## Technologies
+
+- Python
+- MySQL
+- OpenCV
+- Git & GitHub
+- SQL
+- Computer Vision
+
+## Current Focus
+
+- Artificial Intelligence
+- Computer Vision
+- Backend Development
+- Software Engineering
+- Building impactful projects
+
+## Connect
+
+- GitHub: @bhavishya-2587
+- Instagram: @bhavishya_2587

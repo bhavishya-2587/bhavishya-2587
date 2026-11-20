@@ -1,37 +1,15 @@
-# Hi, I'm Bhavishya Sharma 
+# Hi, I'm Bhavishya 👋
+I build fast, responsive websites with Next.js and fix React bugs.
 
-Aspiring Software Engineer from India with interests in Artificial Intelligence, Computer Vision, Backend Development, and Educational Technology.
+## What I do
+- Landing pages for small businesses and coaching classes
+- React / Next.js bug fixes
+- Design-to-code (Figma to responsive pages)
 
-Currently building practical software projects in Python while preparing for a Computer Science and Engineering degree.
+## Featured projects
+- **Face Recognition Attendance System**: OpenCV + Python
+- **Student Result Management System**: Python + MySQL
+- Live web demos: coming soon
 
-## Featured Projects
-
-### Face Recognition Attendance System
-
-A computer vision application built with OpenCV and face_recognition that identifies registered individuals through webcam input and automatically records attendance.
-
-### Student Result Management System
-
-A Python and MySQL based academic record management system featuring CRUD operations, search functionality, performance analytics, topper identification, and low-performer analysis.
-
-## Technologies
-
-- Python
-- MySQL
-- OpenCV
-- Git & GitHub
-- SQL
-- Computer Vision
-
-## Current Focus
-
-- Artificial Intelligence
-- Computer Vision
-- Backend Development
-- Software Engineering
-- Building impactful projects
-
-## Connect
-
-- GitHub: @bhavishya-2587
-- Instagram: @bhavishya_2587
+## Tech
+Next.js · React · TypeScript · Tailwind · Python · MySQL · Git
